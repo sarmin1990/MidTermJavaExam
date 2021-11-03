@@ -11,6 +11,7 @@ public class UseMap {
 		 * Use For Each loop and while loop with Iterator to retrieve data.
 		 *
 		 */
+		int a;
 
 	}
 
