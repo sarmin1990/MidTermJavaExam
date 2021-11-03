@@ -1,0 +1,81 @@
+Please answer the below Data Structure Questions:
+
+why do we need data structure?
+=Data Structures are necessary for designing efficient algorithms. It provides reusability and
+abstraction . Using appropriate data structure, can help programmers save a good amount of time
+while performing operations such as storage, retrieval or processing of data
+What are the various operations that can be performed on different Data Structures?
+=Insertion: Add a new data item in the given collection of data items.
+ Deletion: Delete an existing data item from the given collection of data items.
+ Traversal: Access each data item exactly once so that it can be processed.
+List out the areas in which data structures are applied extensively?
+what is an Array?
+=An array is a data structure, which can store a fixed-size collection of elements of the
+same data type
+what is the difference between the Array and ArrayList?
+=Array is a fixed length data structure whereas ArrayList is a variable length Collection class.
+We cannot change length of array once created in Java but ArrayList can be changed
+what is LinkedList?
+=The LinkedList class is a collection which can contain many objects of the same type,
+just like the ArrayList .
+How is an Array different from Linked List?
+=An array is a collection of elements of a similar data type. A linked list is a collection
+of objects known as a node where node consists of two parts, data and address. Array elements
+store in a contiguous memory location. Linked list elements can be stored anywhere in the memory or randomly stored.
+what is queue?
+=A Queue is a linear structure which follows a particular order in which the operations are performed.
+what is stack?
+= A stack  is an ordered collection of items where the addition of new items and the removal of
+existing items always takes place at the same end.
+what is FIFO and LIFO?
+= The Last-In, First-Out (LIFO) method assumes that the last unit to arrive in inventory or more
+recent is sold first. The First-In, First-Out (FIFO) method assumes that the oldest unit of
+inventory is the sold first.
+what is the order of complexity?
+=The complexity can be found in any form such as constant, logarithmic, linear, n*log(n),
+quadratic, cubic, exponential, etc. It is nothing but the order of constant, logarithmic,
+linear and so on, the number of steps encountered for the completion of a particular algorithm.
+what is the best case to search an element from an array?
+=Sequential search is the best that we can do when trying to find a value in an unsorted array.
+But if the array is sorted in increasing order by value, then we can do much better.
+We use a process called binary search.
+what is the worst case to search an element from an array?
+=The worst case complexity is O(n/2) when element is in the middle or not present in the array.
+what is tree in data structure?
+=A tree structure is an algorithm for placing and locating files (called records or keys) in a database
+what is graph in data structure?
+=A graph is a pictorial representation of a set of objects where some pairs of objects are
+connected by links. The interconnected objects are represented by points termed as vertices,
+and the links that connect the vertices are called edges.
+what is the difference between the HashTable and HashMap?
+=The main difference between them is that HashMap is not thread-safe but Hashtable is thread-safe
+What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+How HashMap works in java?
+=A HashMap is a map used to store mappings of key-value pairs
+What is ArrayIndexOutOfBoundsException in java? When it occurs?
+=The ArrayIndexOutOfBoundsException occurs whenever we are trying to access any item of an
+array at an index which is not present in the array.
+What are the different ways of copying an array into another array?
+=You can use a for loop and copy elements of one to another one by one.
+ Use the clone method to clone an array.
+ Use arraycopy() method of System class.
+ Use copyOf() or copyOfRange() methods of Arrays class
+What is difference between an array and a linked list?
+What is DFS and BFS?
+=BFS stands for Breadth First Search. DFS stands for Depth First Search
+What is Recursion?
+=Recursion is a basic programming technique you can use in Java, in which a method calls itself to solve some problem.
+What are linear and non linear data Structures?
+=In a linear data structure, data elements are arranged in a linear order where each and every
+elements are attached to its previous and next adjacent. In a non-linear data structure, data
+elements are attached in hierarchically manner
+What is Big-(O)-notation?
+=Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument
+tends towards a particular value or infinity.
+Outline different kind of sorting algorithm with time complexity?
+
+Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of Accessing element.
+  b)In terms of Inserting element.
+  c)In terms of Searching element.
+  d)In terms of Removing element.
