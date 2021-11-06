@@ -154,10 +154,21 @@ What is Framework?
 =java frameworks are specific to the Java programming language. It's a Java platform for
 developing software applications and Java programs.
 What are the testing Framework available in java?
+=Selenium, serenity, JUnit, TestUG,Cucumber, JBehave, Mockito
 Difference between jUnit and testNG?
+=JUnit is an open-source framework used to trigger and write tests. TestNG is a Java-based
+framework that is an upgraded option for running tests. JUnit does not support to run parallel
+tests. TestNG can run parallel tests.
 What are the dependencies for this project?
+=A dependency describes the relationship among activities and specifies the particular order
+in which they need to be performed.
 what is dependency injection in java?
+=Dependency injection (DI) is the concept in which objects get other required objects from
+outside. DI can be implemented in any programming language.
 What is static binding and dynamic binding?
+=Static binding is a binding in which name can be associated with the class during compilation
+time , and it is also called as early Binding. Dynamic binding is a binding in which name can
+be associated with the class during execution time , and it is also called as Late Binding
 
 
 

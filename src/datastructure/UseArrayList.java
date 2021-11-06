@@ -38,7 +38,7 @@ public class UseArrayList {
 		System.out.println("The element at index 3 is:" + name.get(3));
 
 
-//		System.out.println("print peek");
+//		System.out.println("print peek");// i don't know
 //		name.stream().peek("John","Donald","Jake","Kate");
 //		for (String a:name){
 //			System.out.println(a);

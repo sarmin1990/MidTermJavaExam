@@ -17,27 +17,28 @@ public class MakePyramid {
 
         */
         public static void main(String[] args) {
-            int i,j,k,number;
-            Scanner scan=new Scanner(System.in);
-            System.out.println("input number of stars");
-           number=scan.nextInt();
-           for (int a=1;a<=number;a++){
-               for (int b=a;b<number;b++){
-                   System.out.print(" ");
-                   for (int c=1;c<a*2;c++){
-                       System.out.print("*");
-                       System.out.print("\n");
-                   }
 
-               }
-
-
-           }
-
-
-
-
+            for (int i=1; i<=6;i++){
+                for (int j=6; j>=i;j--){
+                    System.out.print(" ");
+                }
+                for (int k=1;k<(i*2);k++){
+                    System.out.print("*");
+                }
+                System.out.println();
+            }
         }
 
-    }
+                   }
+
+
+
+
+
+
+
+
+
+
+
 
