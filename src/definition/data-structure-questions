@@ -70,8 +70,8 @@ What are linear and non linear data Structures?
 elements are attached to its previous and next adjacent. In a non-linear data structure, data
 elements are attached in hierarchically manner
 What is Big-(O)-notation?
-=Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument
-tends towards a particular value or infinity.
+=Big O notation is a mathematical notation that describes the limiting behavior of a function
+when the argument tends towards a particular value or infinity.
 Outline different kind of sorting algorithm with time complexity?
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.

@@ -146,10 +146,17 @@ and may increase or decrease in size while the application runs. When the heap b
 garbage is collected. During the garbage collection objects that are no longer used are cleared,
 thus making space for new objects.
 Can you guarantee the garbage collection process?
+=No, Garbage collection does not guarantee that a program will not run out of memory
 What is the difference between stack and heap in Java?
+=Java Heap Space is used throughout the application, but Stack is only used for the method
 What is reflection in java and why is it useful?
+=Reflection is a feature in the Java programming language. It allows an executing Java program
+to examine or "introspect" upon itself, and manipulate internal properties of the program.
 what is multithreading in java?
+=In Java, Multithreading refers to a process of executing two or more threads simultaneously
+for maximum utilization of the CPU.
 What is the use of synchronization in Java?
+=Synchronization in java is the capability to control the access of multiple threads to any shared resource.
 What is Framework?
 =java frameworks are specific to the Java programming language. It's a Java platform for
 developing software applications and Java programs.
